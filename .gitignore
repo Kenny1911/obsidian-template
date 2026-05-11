@@ -1,1 +1,10 @@
+# Ignore workspace settings
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/workspace-tablet.json
+
+# Ignore cache
+/.obsidian/cache/
+
+# Trash
 /.trash/
